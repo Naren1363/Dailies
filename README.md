@@ -3,6 +3,7 @@
 //Initial Template for Java
 import java.io.*;
 import java.util.*;
+// Manual update to trigger green square
 
 class GFG {
     public static void main(String[] args) throws IOException {
