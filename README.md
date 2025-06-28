@@ -4,7 +4,7 @@
 import java.io.*;
 import java.util.*;
 // Manual update to trigger green square
-
+//begin
 class GFG {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
