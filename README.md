@@ -11,8 +11,8 @@ class GFG {
         int t;
         t = Integer.parseInt(br.readLine());
         while(t-- > 0){
-            
-            int n;
+          //daily buffer zone
+          int n;
             n = Integer.parseInt(br.readLine());
             
             
