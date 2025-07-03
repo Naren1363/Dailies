@@ -1,8 +1,6 @@
 # Dailies
 //{ Driver Code Starts
 //Initial Template for Java
-import java.io.*;
-import java.util.*;
 // Manual update to trigger green square
 //begin here
 class GFG {
