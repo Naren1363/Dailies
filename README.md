@@ -5,14 +5,7 @@
 //begin here
 class GFG {
     public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int t;
-        t = Integer.parseInt(br.readLine());
-        while(t-- > 0){
-          //daily buffer zone
-          int n;
-            n = Integer.parseInt(br.readLine());
-            
+   
             
             int m;
             m = Integer.parseInt(br.readLine());
