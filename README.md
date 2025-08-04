@@ -1,44 +1,23 @@
-# Dailies
-//{ Driver Code Starts
-//Initial Template for Java
-// Manual update to trigger green square
-//begin here
-class GFG {
-    public static void main(String[] args) throws IOException {
-   
-            
-            int m;
-            m = Integer.parseInt(br.readLine());
-            
-            Solution obj = new Solution();
-            String res = obj.compareNM(n, m);
-            
-            System.out.println(res);
-            
-        //JAVA END LINE
-        
-System.out.println("~");
-}
-    }
-}
+# Dailies – Java String Practice
 
+This repository contains simple daily practice problems focused on Java string handling.
 
-// } Driver Code Ends
+## Files
 
-// User function Template for Java
-class Solution {
-    public static String compareNM(int n, int m) {
-      if (n<m){
-          return "lesser";
-      }else if (n==m){
-          return "equal";
-      }else{return"greater";
-      }
-    }
-}
+- `StringBasic1.java` – Count vowels
+- `StringBasic2.java` – Count consonants
+- `StringBasic3.java` – Count both vowels and consonants
+- `StringBasic4.java` – Count words in a string
 
-//end here
+## Concepts Used
 
-//{ Driver Code Starts.
+- Looping through strings
+- Character checking
+- Basic string methods like `charAt()`, `toLowerCase()`, `trim()`, `split()`
+- Basic use of conditions and logic
 
-// } Driver Code Ends
+## How to Run
+
+```bash
+javac FileName.java
+java FileName
